@@ -2,8 +2,7 @@
 
 Este repositório contém a resolução completa do case técnico proposto pelo iFood, com foco em análise de testes A/B para campanhas promocionais utilizando PySpark no ambiente Databricks.
 
-[Apresentação](https://docs.google.com/presentation/d/1fajbGMI6A6OW5IjKB_XfJxNTUMhoV_u_muCd4DPGclM/edit#slide=id.g357e9fd0664_0_191
-)
+[Apresentação](https://docs.google.com/presentation/d/1fajbGMI6A6OW5IjKB_XfJxNTUMhoV_u_muCd4DPGclM/edit?slide=id.g357e9fd0664_0_0#slide=id.g357e9fd0664_0_0)
 
 
 
